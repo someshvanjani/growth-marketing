@@ -1,27 +1,37 @@
-# AI-Powered Growth Marketing Setup
+# Cold Outreach Pipeline for B2B SaaS — Research Project
 
-This repository documents how I set up my local development environment for an AI-assisted growth marketing experiment.
+## Overview
+This repository is a research project built as part of a portfolio process 
+with 100Hires. The goal is to collect, organize, and synthesize high-signal 
+content from top practitioners in B2B cold outreach — covering sequencing 
+strategy, copywriting frameworks, deliverability, and tool stacks.
 
----
+## Why cold outreach pipeline
+Cold outreach sits at the intersection of copywriting, automation, and 
+deliverability — three areas I've worked in directly through funnel 
+architecture and multi-stage drip sequence builds. This topic has enough 
+technical depth to study seriously, not just summarize.
 
-## Tools Installed
+## Expert selection criteria
+- Practitioners sharing real data: reply rates, sequence screenshots, A/B results
+- Active content in the last 6 months
+- Known for original frameworks, not recycled advice
+- Mix of solo practitioners, agency operators, and tool builders
 
-1.  **Cursor IDE:** 
-2.  **Claude Code Extension:** 
-3.  **Codex Extension:**
+## Repository structure
+- `/research/sources.md` — all 10 experts with links, dates, and annotations
+- `/research/linkedin-posts/` — recent posts organized by author
+- `/research/youtube-transcripts/` — transcripts organized by video
+- `/research/synthesis-notes.md` — patterns and insights across all sources
+- `/research/other/` — additional materials
 
----
+## Collection method
+- YouTube transcripts: youtube-transcript npm package (no API key needed for public videos)
+- LinkedIn posts: manually collected with post URLs and dates documented
+- All sources verified active within last 90 days
 
-## Steps Completed
+## Status
+🔄 In progress — commits being pushed daily
 
-1.  **Installed the Editor:** Downloaded and installed Cursor IDE on my machine.
-2.  **Added Extensions:** Searched the marketplace for `Claude Code for VS Code` (by Anthropic) and `Codex` (by OpenAI), installed both, and logged into my accounts.
-3.  **Set Up Version Control:** Initialized a local Git repository, created this documentation file, and linked it to a public GitHub repository.
-4.  **Pushed Code Live:** Committed the changes and pushed the code to the main branch on GitHub.
-
----
-
-## Troubleshooting & Notes
-
-*   **Issues Encountered:** None. The installation and setup went smoothly without any errors or issues.
-*   **Workflow Optimization:** Before running the setup, I used **Gemini** to break down the installation steps into a clean checklist. This helped me map out the process beforehand, allowing me to complete the entire configuration quickly and flawlessly in one go.
+## Tools used
+Cursor IDE · Claude Code · Codex · Git · Node.js · youtube-transcript npm
