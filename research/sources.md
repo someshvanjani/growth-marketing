@@ -6,73 +6,64 @@ Selection criteria: Active in last 90 days, shares real data
 ---
 
 ## 1. Jason Bay
-- Role: Outbound sales coach, founder of Blissful Prospecting
+- Role: Outbound Coach, Trainer & SKO Speaker for B2B sales teams; Founder of Blissful Prospecting
 - LinkedIn: https://www.linkedin.com/in/jasondbay/
 - YouTube: https://www.youtube.com/@jasondbay
-- Why: Shares actual cold email breakdowns with reply rate data. 
-  Known for the "Spear" email framework. Runs real outbound for clients.
+- Why: Known for the "Spear" cold email framework. Shares actual sequence breakdowns with reply rate data from real client campaigns.
 
 ## 2. Will Allred
-- Role: Co-founder of Lavender AI
+- Role: Co-founder of Lavender AI — email intelligence platform with 50k+ active inboxes
 - LinkedIn: https://www.linkedin.com/in/williamallred/
-- Why: Posts daily email teardowns with before/after rewrites. 
-  Sees millions of cold emails through Lavender's platform — real signal.
-  Data point: 40% reply rate, 28% meeting booked rate on their own outbound.
+- YouTube: https://www.youtube.com/@itslavenderduh
+- Why: Posts daily before/after email teardowns. Pulls real reply rate patterns from billions of analyzed emails across Lavender's network.
 
 ## 3. Nick Abraham
-- Role: Founder of Leadbird (cold email agency)
-- LinkedIn: https://www.linkedin.com/in/nickabraham12/
-- YouTube: https://www.youtube.com/@nickabraham
-- Why: Sends millions of cold emails per month for clients. Posts actual 
-  sequence structures, deliverability setups, and reply rate benchmarks.
+- Role: Founder of Leadbird & Cleverly — sends 2M+ cold emails and 1M+ LinkedIn DMs/month for 1,000+ clients
+- LinkedIn: https://www.linkedin.com/in/nick-abraham/
+- YouTube: https://www.youtube.com/@nickabraham12
+- Why: Highest-volume practitioner on this list. Shares real deliverability setups, sequence structures, and reply benchmarks at agency scale.
 
 ## 4. Alex Berman
-- Role: Founder of X27 Marketing, cold email educator
-- LinkedIn: https://www.linkedin.com/in/aberman3/
+- Role: CMO, Cold Email Manifesto author, 5 SaaS exits
+- LinkedIn: https://www.linkedin.com/in/alexanderberman/
 - YouTube: https://www.youtube.com/@AlexBerman
-- Why: One of the earliest practitioners to document cold outreach 
-  systematically. Deep library on agency-scale outbound.
+- Why: One of the earliest practitioners to document cold outreach systematically. Deep content library on agency-scale multi-channel outbound.
 
 ## 5. Florin Tatulea
-- Role: Head of Sales at Bardeen, former SDR leader
-- LinkedIn: https://www.linkedin.com/in/florin-tatulea/
-- Why: Focuses on outbound sequencing and SDR workflows at a technical 
-  level. Posts frameworks for pipeline building from zero.
+- Role: GTM Engineering @ ZoomInfo | LinkedIn Top Voice | Advisor
+- LinkedIn: https://www.linkedin.com/in/florintatulea/
+- YouTube: N/A — LinkedIn-only practitioner
+- Why: Focuses on technical GTM engineering and outbound sequencing workflows. Rare combination of sales ops and outreach strategy.
 
 ## 6. Tom Slocum
-- Role: Founder of The SD Lab, outbound sales trainer
+- Role: Founder @ SD Lab — fixes outbound systems for B2B SaaS teams
 - LinkedIn: https://www.linkedin.com/in/tomslocum/
-- Why: Shares messaging teardowns, objection handling scripts, and 
-  sequencing logic with real client examples.
+- YouTube: N/A — not active on YouTube
+- Why: Claims 20-30% pipeline lift in 45 days. Posts broken-down outbound system fixes with before/after client examples.
 
 ## 7. Michel Lieben
-- Role: CEO of ColdIQ (outbound systems agency)
+- Role: Founder & CEO at ColdIQ — GTM systems agency
 - LinkedIn: https://www.linkedin.com/in/michel-lieben/
-- Why: Ships real campaign data and multi-channel sequence breakdowns. 
-  Known for content-warmed outreach — warm via LinkedIn content before 
-  emailing. Active 2025-26 with high-engagement posts on deliverability.
+- YouTube: https://www.youtube.com/@MichLieben
+- Why: Builds in public. Known for content-warmed outreach strategy — warm prospects via LinkedIn content before cold emailing. High-signal data posts on deliverability and multi-channel sequencing.
 
-## 8. Morgan Williams
-- Role: B2B outbound sales expert, podcast host
-- LinkedIn: https://www.linkedin.com/in/morgandwilliams/
-- Podcast: Hey {First Name} — An Insider's Guide to Outbound Sales
-- Why: Interviews SaaS founders on what's actually working in outbound. 
-  5000+ community members. Real case studies with specific reply/meeting rates.
+## 8. Jeremy Chatelaine
+- Role: Founder of Quickmail.io — cold email automation platform
+- LinkedIn: https://www.linkedin.com/in/jeremychatelaine/
+- YouTube: https://www.youtube.com/@outreachwithjeremy
+- Why: Runs deliverability experiments on live send data. Posts sequence test results, inbox placement breakdowns, and technical cold email infrastructure — rare practitioner-level depth on deliverability.
 
 ## 9. Ronen Pessar
-- Role: Co-Founder of Outbound Operators, SDR team builder
+- Role: Co-Founder, Outbound Operators — installs SDR engines inside B2B SaaS companies
 - LinkedIn: https://www.linkedin.com/in/rpessar/
 - YouTube: https://www.youtube.com/@ronenrpessar
-- Why: Builds outbound systems from scratch for companies. 
-  Shares cold calling + email pipeline frameworks with real connect rates 
-  (20-40% on live call blitzes). Covers the full pipeline, not just email.
+- Why: Builds full outbound systems from zero. Shares cold calling + email pipeline frameworks with real connect rate data (20–40% on live call blitzes).
 
 ## 10. Guillaume Moubeche
-- Role: CEO of Lemlist (cold outreach platform)
-- LinkedIn: https://www.linkedin.com/in/gouillaume/
-- YouTube: https://www.youtube.com/@lemlist
-- Why: Builds in public. Shares real campaign data from Lemlist's user base. 
-  Strong on multi-channel sequences and video prospecting.
+- Role: Founder of Lemlist (0 to $150M valuation in 4 years), Investor, Podcast Host
+- LinkedIn: https://www.linkedin.com/in/guillaume-moubeche-a026541b2/
+- YouTube: https://www.youtube.com/@GuillaumeMoubeche
+- Why: Builds in public with real campaign data. Strong on multi-channel sequences, video prospecting, and the full cold outreach stack from tool to strategy.
 
 ---
 Last updated: June 2026
