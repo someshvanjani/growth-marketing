@@ -31,7 +31,7 @@ technical depth to study seriously, not just summarize.
 - All sources verified active within last 90 days
 
 ## Status
-🔄 In progress — commits being pushed daily
+✅ Complete — all sources collected, transcripts pulled via API, synthesis complete
 
 ## Tools used
 Cursor IDE · Claude Code · Codex · Git · Node.js · youtube-transcript npm
